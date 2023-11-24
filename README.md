@@ -1,5 +1,6 @@
 # CrimeData-Python
 Using Python to analyze crime data in Colorado as part of the CareerFoundry Data Analytics Course. 
+Tableau Storyboard: https://public.tableau.com/app/profile/mindy.duong/viz/Task6_7COCrimeData/COCrime_Storyboard?publish=yes
 # Introduction
 Project objective to provide executive-level insight on where crimes are occurring and the types of crimes in those areas. 
 # Disclaimers
